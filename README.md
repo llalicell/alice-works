@@ -1,18 +1,18 @@
 <!--# alice-works-->
 <h1>Hi, welcome to my github.</h1>
-alice-works html is about my design collections.
-http://ienronmalu.github.io/alice-works/
-or you can also link in this page.
-http://ienronmalu.weebly.com/
+alice-works html is about my design collections.<br>
+http://ienronmalu.github.io/alice-works/ <br>
+or you can also link in this page. <br>
+http://ienronmalu.weebly.com/ <br>
 <!--<h2>Resume</h2>
 cooming soon.-->
 <h2>my Behance</h2>
-https://www.behance.net/ienronmalu0fe1
+https://www.behance.net/ienronmalu0fe1 <br>
 <h2>other works</h2>
-https://ienronmalu.github.io/alice-works/others/galleryshow/
+https://ienronmalu.github.io/alice-works/others/galleryshow/ <br>
 <h2>CodePen</h2>
-Weather Box
-https://codepen.io/ienronmalu/pen/rwvQKx/
-How Many Products?
-https://codepen.io/ienronmalu/pen/NvPmQz/
+Weather Box<br>
+https://codepen.io/ienronmalu/pen/rwvQKx/ <br>
+How Many Products?<br>
+https://codepen.io/ienronmalu/pen/NvPmQz/ <br>
 
