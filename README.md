@@ -1,6 +1,6 @@
 <!--# alice-works-->
 <h1>Hi, welcome to my github.</h1>
-alice-works html is about my design collections.<br>
+alice-works html is about my design collections. (please use http://)<br>
 http://ienronmalu.github.io/alice-works/ <br>
 or you can also link in this page. <br>
 http://ienronmalu.weebly.com/ <br>
