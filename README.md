@@ -7,6 +7,8 @@ http://ienronmalu.weebly.com/
 cooming soon.-->
 <h2>my Behance</h2>
 https://www.behance.net/ienronmalu0fe1
+<h2>other works</h2>
+https://ienronmalu.github.io/alice-works/others/galleryshow/
 <h2>CodePen</h2>
 Weather Box<br>
 https://codepen.io/ienronmalu/pen/rwvQKx/ <br>
