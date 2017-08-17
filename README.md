@@ -11,13 +11,12 @@
 <!--### Resume
 cooming soon.-->
 
-### <a href="https://www.behance.net/ienronmalu0fe1" target="_blank">Behance</a>  
-######	My design collections on Behance social media.
+### <a href="https://www.behance.net/ienronmalu0fe1" target="_blank">Behance</a> - ######	My design collections on Behance social media.
 
 ### CodePen
-######	<a href="https://codepen.io/ienronmalu/pen/rwvQKx/" target="_blank">Weather Box</a>
-######	<a href="https://codepen.io/ienronmalu/pen/NvPmQz/" target="_blank">How Many Products?</a>
+####	<a href="https://codepen.io/ienronmalu/pen/rwvQKx/" target="_blank">Weather Box</a>
+####	<a href="https://codepen.io/ienronmalu/pen/NvPmQz/" target="_blank">How Many Products?</a>
 
 ### other works
-######	<a href="https://ienronmalu.github.io/alice-works/others/galleryshow/" target="_blank">Gallery Show</a>
+####	<a href="https://ienronmalu.github.io/alice-works/others/galleryshow/" target="_blank">Gallery Show</a>
 
