@@ -3,10 +3,7 @@
 
 ### Hi, welcome to my github.  
 
-#### Here is about my design collections - http://llalicell.github.io/alice-works/
-###### (use http://, if plug-in doesn't work please try the second link)  
-  
-#### or you can also link in this page - http://ienronmalu.weebly.com/  
+#### [My design collections](http://llalicell.github.io/alice-works/)
 ***  
 
 <!--### Resume
